@@ -1,0 +1,12 @@
+{
+  "name": "SwagMenuandCart",
+  "type": "module",
+  "devDependencies": {
+    "@wdio/local-runner": "^9.2.15",
+    "@wdio/mocha-framework": "^9.2.8",
+    "@wdio/spec-reporter": "^9.2.14"
+  },
+  "scripts": {
+    "wdio": "wdio run ./wdio.conf.js"
+  }
+}
